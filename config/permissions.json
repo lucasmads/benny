@@ -1,0 +1,9 @@
+{
+  "available_permissions": [
+    "users.read",
+    "users.write",
+    "roles.read",
+    "roles.write",
+    "settings.update"
+  ]
+}
