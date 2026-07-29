@@ -1,0 +1,7 @@
+[project]
+name = "permission-system"
+version = "1.0.0"
+description = "Role-Based Access Control system"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
