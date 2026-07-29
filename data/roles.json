@@ -1,0 +1,11 @@
+[
+  {
+    "name": "administrator",
+    "permissions": [
+      "users.read",
+      "users.write",
+      "roles.read",
+      "roles.write"
+    ]
+  }
+]
